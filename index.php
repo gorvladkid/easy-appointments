@@ -38,10 +38,10 @@
 
 /*
  *---------------------------------------------------------------
- * EASY!APPOINTMENTS CONFIGURATION
+ * Div4ataZaKermom CONFIGURATION
  *---------------------------------------------------------------
  *
- * Include Easy!Appointments configuration file so that it is available
+ * Include Div4ataZaKermom configuration file so that it is available
  * globally in the application. You can access configuration information
  * through the static Config class.
  *
