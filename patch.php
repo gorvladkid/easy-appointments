@@ -6,9 +6,9 @@
  * @package     EasyAppointmentsPatch
  * @version     1.0.0
  * @author      A.Tselegidis <info@alextselegidis.com>
- * @copyright   Copyright (c) 2013 - 2022, Alex Tselegidis
+ * @copyright   Copyright (c) 2013 - 2022, Div4ata Za Kermom
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://driv-ing.art
+ * @link        https://div4ata.driv-ing.art
  * @support     Div4ataZaKermom v1.x.x
  * ---------------------------------------------------------------------------- */
 

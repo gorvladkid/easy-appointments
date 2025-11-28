@@ -2,9 +2,9 @@
  * Div4ataZaKermom - Online Appointment Scheduler
  *
  * @author      V.Hordiienko <admin@driv-ing.art>
- * @copyright   Copyright (c) Alex Tselegidis
+ * @copyright   Copyright (c) Div4ata Za Kermom
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://driv-ing.art
+ * @link        https://div4ata.driv-ing.art
  * @since       v1.5.0
  * ---------------------------------------------------------------------------- */
 

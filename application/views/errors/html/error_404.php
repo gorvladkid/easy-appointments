@@ -74,7 +74,7 @@
     <p>
         <small>
             Powered by
-            <a href="https://driv-ing.art">Div4ataZaKermom</a>
+            <a href="https://div4ata.driv-ing.art">Div4ataZaKermom</a>
         </small>
     </p>
 </div>

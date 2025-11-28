@@ -33,7 +33,7 @@
     <div id="footer" style="padding: 10px; text-align: center; margin-top: 10px;
                 border-top: 1px solid #EEE; background: #FAFAFA;">
         Powered by
-        <a href="https://driv-ing.art" style="text-decoration: none;">
+        <a href="https://div4ata.driv-ing.art" style="text-decoration: none;">
             Div4ataZaKermom
         </a>
         |

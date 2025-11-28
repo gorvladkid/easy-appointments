@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <a href="https://driv-ing.art">
+    <a href="https://div4ata.driv-ing.art">
         <!-- <img src="https://github.dev/gorvladkid/easy-appointments/blob/main/logo.png" alt="Div4ataZaKermom" width="150"> -->
     </a>
     <br>
@@ -89,7 +89,7 @@ You will need to perform the following steps to install the application on your 
 
 That's it! You can now use Div4ataZaKermom at your will.
 
-You will find the latest release at [easyappointments.org](https://driv-ing.art).
+You will find the latest release at [easyappointments.org](https://div4ata.driv-ing.art).
 If you have problems installing or configuring the application visit the
 [official support group](https://groups.google.com/forum/#!forum/easy-appointments).
 You can also report problems on the [issues page](https://github.com/alextselegidis/easyappointments/issues)

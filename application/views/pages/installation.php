@@ -31,7 +31,7 @@
             of Div4ataZaKermom.
 
             If you face any problems during the usage of Div4ataZaKermom you can always check the
-            <a href="https://driv-ing.art/docs.html">Documentation</a> and
+            <a href="https://div4ata.driv-ing.art/docs.html">Documentation</a> and
             <a href="https://groups.google.com/group/easy-appointments">Support Group</a> for getting help. You may also
             submit new issues on
             <a href="https://github.com/alextselegidis/easyappointments/issues">GitHub Issues</a>
@@ -192,7 +192,7 @@
 </div>
 
 <footer>
-    Powered by <a href="https://driv-ing.art">Div4ataZaKermom</a>
+    Powered by <a href="https://div4ata.driv-ing.art">Div4ataZaKermom</a>
 </footer>
 
 <?php component('js_vars_script'); ?>

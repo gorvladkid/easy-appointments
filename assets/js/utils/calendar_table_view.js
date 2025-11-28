@@ -3,9 +3,9 @@
  *
  * @package     Div4ataZaKermom
  * @author      V.Hordiienko <admin@driv-ing.art>
- * @copyright   Copyright (c) 2013 - 2016, Alex Tselegidis
+ * @copyright   Copyright (c) 2013 - 2016, Div4ata Za Kermom
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://driv-ing.art
+ * @link        https://div4ata.driv-ing.art
  * @since       v1.5.0
  * ---------------------------------------------------------------------------- */
 

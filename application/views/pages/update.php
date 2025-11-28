@@ -64,7 +64,7 @@
 </div>
 
 <footer>
-    Powered by <a href="https://driv-ing.art">Div4ataZaKermom</a>
+    Powered by <a href="https://div4ata.driv-ing.art">Div4ataZaKermom</a>
 </footer>
 
 <script src="<?= asset_url('assets/vendor/@fortawesome-fontawesome-free/fontawesome.min.js') ?>"></script>

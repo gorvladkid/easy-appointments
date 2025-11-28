@@ -5,7 +5,7 @@
  *
  * @package     Div4ataZaKermom
  * @author      V.Hordiienko <admin@driv-ing.art>
- * @copyright   Copyright (c) Alex Tselegidis
+ * @copyright   Copyright (c) Div4ata Za Kermom
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
  * @link        http://easyunavailabilities.org
  * @since       v1.0.0

@@ -10,7 +10,7 @@
     <small>
         <span class="footer-powered-by small">
             Powered By
-            <a href="https://driv-ing.art" target="_blank">Div4ataZaKermom</a>
+            <a href="https://div4ata.driv-ing.art" target="_blank">Div4ataZaKermom</a>
         </span>
 
         <span class="footer-options">

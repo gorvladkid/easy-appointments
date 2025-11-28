@@ -3,17 +3,17 @@ info:
   title: Div4atZaKermom API
   version: 1.0.0
   description: These are the OpenAPI specs that describe the REST API of Div4atZaKermom.
-  termsOfService: https://driv-ing.art/terms-and-conditions
+  termsOfService: https://div4ata.driv-ing.art/terms-and-conditions
   contact:
     name: Div4atZaKermom
-    url: https://driv-ing.art
+    url: https://div4ata.driv-ing.art
     email: info@driv-ing.art
   license:
     name: GPL-3.0
     url: https://www.gnu.org/licenses/gpl-3.0.en.html
 externalDocs:
   description: Find out more about Div4atZaKermom
-  url: https://driv-ing.art/docs.html
+  url: https://div4ata.driv-ing.art/docs.html
 servers:
   - url: https://demo.driv-ing.art/index.php/api/v1/
   - url: http://localhost/index.php/api/v1/

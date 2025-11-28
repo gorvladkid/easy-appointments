@@ -9,15 +9,15 @@
     <div class="mb-3 me-lg-5 mb-lg-0">
         <img class="me-1" src="<?= base_url('assets/img/logo-16x16.png') ?>" alt="Div4ataZaKermom Logo">
 
-        <a href="https://driv-ing.art">Div4ataZaKermom</a>
+        <a href="https://div4ata.driv-ing.art">Div4ataZaKermom</a>
 
         <span>v<?= config('version') ?></span>
     </div>
 
     <div class="mb-3 me-lg-5 mb-lg-0">
-        <img class="me-1" src="<?= base_url('assets/img/alextselegidis-logo-16x16.png') ?>" alt="Alex Tselegidis Logo">
+        <img class="me-1" src="<?= base_url('assets/img/logo-16x16.png') ?>" alt="Div4ata Za Kermom Logo">
 
-        <a href="https://alextselegidis.com">Alex Tselegidis</a>
+        <a href="https://div4ata.driv-ing.art">Div4ata Za Kermom</a>
 
         &copy; <?= date('Y') ?> - Software Development
     </div>
@@ -48,5 +48,3 @@
         </strong>
     </div>
 </div>
-
-

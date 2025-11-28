@@ -2,19 +2,19 @@
     "name": "alextselegidis/easyappointments",
     "description": "Open Source Web Scheduler",
     "version": "1.5.2",
-    "homepage": "https://driv-ing.art",
+    "homepage": "https://div4ata.driv-ing.art",
     "type": "project",
     "license": "GPL-3.0",
     "authors": [
         {
-            "name": "Alex Tselegidis",
+            "name": "Div4ata Za Kermom",
             "email": "alextselegidis@gmail.com"
         }
     ],
     "support": {
         "issues": "https://github.com/alextselegidis/easyappointments/issues",
         "forum": "https://groups.google.com/forum/#!forum/easy-appointments",
-        "wiki": "https://driv-ing.art/docs",
+        "wiki": "https://div4ata.driv-ing.art/docs",
         "source": "https://github.com/alextselegidis/easyappointments"
     },
     "keywords": [
