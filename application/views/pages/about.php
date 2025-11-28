@@ -6,10 +6,10 @@
     <div id="about" class="col-lg-8 offset-lg-2">
 
         <div class="text-center my-5">
-            <img src="<?= base_url('assets/img/logo.png') ?>" alt="Easy!Appointments Logo" class="mb-5">
+            <img src="<?= base_url('assets/img/logo.png') ?>" alt="Div4ataZaKermom Logo" class="mb-5">
 
             <h3>
-                Easy!Appointments
+                Div4ataZaKermom
             </h3>
             <h6 class="text-primary">
                 Online Appointment Scheduler
@@ -43,7 +43,7 @@
 
         <div class="row mb-5">
             <div class="col-lg-6 mb-3">
-                <a class="btn btn-outline-secondary d-block" href="https://easyappointments.org" target="_blank">
+                <a class="btn btn-outline-secondary d-block" href="https://driv-ing.art" target="_blank">
                     <i class="fas fa-external-link-alt me-2"></i>
                     <?= lang('official_website') ?>
                 </a>
@@ -80,7 +80,7 @@
             </div>
 
             <div class="col-lg-6 mb-3">
-                <a class="btn btn-outline-secondary d-block" href="https://easyappointments.org/get-a-free-quote"
+                <a class="btn btn-outline-secondary d-block" href="https://driv-ing.art/get-a-free-quote"
                    target="_blank">
                     <i class="fas fa-external-link-alt me-2"></i>
                     Customize E!A

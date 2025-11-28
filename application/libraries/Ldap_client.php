@@ -1,13 +1,13 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art
  * @since       v1.5.0
  * ---------------------------------------------------------------------------- */
 
@@ -69,7 +69,7 @@ class Ldap_client
         $user = $this->CI->accounts->get_user_by_username($username);
 
         if (empty($user['ldap_dn'])) {
-            return null; // User does not exist in Easy!Appointments
+            return null; // User does not exist in Div4ataZaKermom
         }
 
         // Connect to LDAP server

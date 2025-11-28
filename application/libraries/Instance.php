@@ -1,13 +1,13 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art
  * @since       v1.4.0
  * ---------------------------------------------------------------------------- */
 
@@ -16,7 +16,7 @@ require_once __DIR__ . '/../core/EA_Migration.php';
 /**
  * Instance library.
  *
- * Handles all Easy!Appointments instance related functionality.
+ * Handles all Div4ataZaKermom instance related functionality.
  *
  * @package Libraries
  */

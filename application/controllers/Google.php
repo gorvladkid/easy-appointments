@@ -1,13 +1,13 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art
  * @since       v1.0.0
  * ---------------------------------------------------------------------------- */
 
@@ -35,7 +35,7 @@ class Google extends EA_Controller
     }
 
     /**
-     * Complete synchronization of appointments between Google Calendar and Easy!Appointments.
+     * Complete synchronization of appointments between Google Calendar and Div4ataZaKermom.
      *
      * This method will completely sync the appointments of a provider with his Google Calendar account. The sync period
      * needs to be relatively small, because a lot of API calls might be necessary and this will lead to consuming the
@@ -153,10 +153,10 @@ class Google extends EA_Controller
                     $google_event = $CI->google_sync->get_event($provider, $local_event['id_google_calendar']);
 
                     if ($google_event->getStatus() == 'cancelled') {
-                        throw new Exception('Event is cancelled, remove the record from Easy!Appointments.');
+                        throw new Exception('Event is cancelled, remove the record from Div4ataZaKermom.');
                     }
 
-                    // If Google Calendar event is different from Easy!Appointments appointment then update Easy!Appointments record.
+                    // If Google Calendar event is different from Div4ataZaKermom appointment then update Div4ataZaKermom record.
                     $local_event_start = strtotime($local_event['start_datetime']);
                     $local_event_end = strtotime($local_event['end_datetime']);
                     $google_event_start = new DateTime(
@@ -184,14 +184,14 @@ class Google extends EA_Controller
                         $events_model->save($local_event);
                     }
                 } catch (Throwable) {
-                    // Appointment not found on Google Calendar, delete from Easy!Appointments.
+                    // Appointment not found on Google Calendar, delete from Div4ataZaKermom.
                     $events_model->delete($local_event['id']);
 
                     $local_event['id_google_calendar'] = null;
                 }
             }
 
-            // Add Google Calendar events that do not exist in Easy!Appointments.
+            // Add Google Calendar events that do not exist in Div4ataZaKermom.
             $google_calendar = $provider['settings']['google_calendar'];
 
             try {
@@ -238,7 +238,7 @@ class Google extends EA_Controller
                     continue;
                 }
 
-                // Record doesn't exist in the Easy!Appointments, so add the event now.
+                // Record doesn't exist in the Div4ataZaKermom, so add the event now.
                 $local_event = [
                     'start_datetime' => $google_event_start->format('Y-m-d H:i:s'),
                     'end_datetime' => $google_event_end->format('Y-m-d H:i:s'),
@@ -296,8 +296,8 @@ class Google extends EA_Controller
      * tokens in the future.
      *
      * IMPORTANT: Because it is necessary to authorize the application using the web server flow (see official
-     * documentation of OAuth), every Easy!Appointments installation should use its own calendar api key. So in every
-     * api console account, the "http://path-to-Easy!Appointments/google/oauth_callback" should be included in an
+     * documentation of OAuth), every Div4ataZaKermom installation should use its own calendar api key. So in every
+     * api console account, the "http://path-to-Div4ataZaKermom/google/oauth_callback" should be included in an
      * allowed redirect URL.
      *
      * @throws Exception

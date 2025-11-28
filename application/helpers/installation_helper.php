@@ -1,20 +1,20 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art
  * @since       v1.1.0
  * ---------------------------------------------------------------------------- */
 
 /**
- * Check if Easy!Appointments is installed.
+ * Check if Div4ataZaKermom is installed.
  *
- * This function will check some factors to determine if Easy!Appointments is installed or not. It is possible that the
+ * This function will check some factors to determine if Div4ataZaKermom is installed or not. It is possible that the
  * installation is properly configure without being recognized by this method.
  *
  * Notice: You can add more checks into this file in order to further check the installation state of the application.

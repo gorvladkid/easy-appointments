@@ -1,13 +1,13 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art
  * @since       v1.1.0
  * ---------------------------------------------------------------------------- */
 
@@ -52,7 +52,7 @@ class Installation extends EA_Controller
     }
 
     /**
-     * Installs Easy!Appointments on the server.
+     * Installs Div4ataZaKermom on the server.
      */
     public function perform(): void
     {

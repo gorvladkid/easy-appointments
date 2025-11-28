@@ -1,8 +1,8 @@
 {
   "name": "easyappointments",
   "description": "Open Source Web Scheduler",
-  "homepage": "https://easyappointments.org",
-  "author": "A.Tselegidis <alextselegidis@gmail.com>",
+  "homepage": "https://driv-ing.art",
+  "author": "V.Hordiienko <admin@driv-ing.art>",
   "license": "GPL-3.0",
   "keywords": [
     "calendar",
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alextselegidis/easyappointments.git"
+    "url": "git+https://github.com/gorvladkid/easy-appointments.git"
   },
   "bugs": {
-    "url": "https://github.com/alextselegidis/easyappointments/issues"
+    "url": "https://github.com/gorvladkid/easy-appointments/issues"
   },
   "engines": {
     "node": ">=14"

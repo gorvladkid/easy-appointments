@@ -1,11 +1,11 @@
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art
  * @since       v1.5.0
  * ---------------------------------------------------------------------------- */
 
@@ -72,7 +72,7 @@ App.Http.Caldav = (function () {
     }
 
     /**
-     * Trigger the sync process between Easy!Appointments and Caldav Calendar.
+     * Trigger the sync process between Div4ataZaKermom and Caldav Calendar.
      *
      * @param {Number} providerId
      *

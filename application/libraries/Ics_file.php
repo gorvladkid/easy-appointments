@@ -1,13 +1,13 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art
  * @since       v1.3.0
  * ---------------------------------------------------------------------------- */
 
@@ -171,7 +171,7 @@ class Ics_file
         $calendar = new Ics_calendar();
 
         $calendar
-            ->setProdId('-//EasyAppointments//Open Source Web Scheduler//EN')
+            ->setProdId('-//Div4ataZaKermom//Open Source Web Scheduler//EN')
             ->setTimezone(new DateTimeZone($provider['timezone']))
             ->addEvent($event);
 
@@ -214,7 +214,7 @@ class Ics_file
         $calendar = new Ics_calendar();
 
         $calendar
-            ->setProdId('-//EasyAppointments//Open Source Web Scheduler//EN')
+            ->setProdId('-//Div4ataZaKermom//Open Source Web Scheduler//EN')
             ->setTimezone(new DateTimeZone($provider['timezone']))
             ->addEvent($event);
 

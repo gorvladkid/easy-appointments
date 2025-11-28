@@ -1,11 +1,11 @@
 /* ----------------------------------------------------------------------------
- * Easy!Appointments - Online Appointment Scheduler
+ * Div4ataZaKermom - Online Appointment Scheduler
  *
- * @package     EasyAppointments
- * @author      A.Tselegidis <alextselegidis@gmail.com>
+ * @package     Div4ataZaKermom
+ * @author      V.Hordiienko <admin@driv-ing.art>
  * @copyright   Copyright (c) Alex Tselegidis
  * @license     https://opensource.org/licenses/GPL-3.0 - GPLv3
- * @link        https://easyappointments.org
+ * @link        https://driv-ing.art/
  * @since       v1.4.0
  * ---------------------------------------------------------------------------- */
 
@@ -25,7 +25,7 @@ const zip = require('zip-dir');
 // const debug = require('gulp-debug');
 
 function archive(done) {
-    const filename = 'easyappointments-0.0.0.zip';
+    const filename = 'Div4ataZaKermom-0.0.0.zip';
 
     fs.removeSync('build');
     fs.removeSync(filename);
