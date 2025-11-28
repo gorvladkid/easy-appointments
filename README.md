@@ -1,7 +1,7 @@
 <h1 align="center">
     <br>
     <a href="https://driv-ing.art">
-        <img src="https://raw.githubusercontent.com/alextselegidis/easyappointments/develop/logo.png" alt="Div4ataZaKermom" width="150">
+        <!-- <img src="https://github.dev/gorvladkid/easy-appointments/blob/main/logo.png" alt="Div4ataZaKermom" width="150"> -->
     </a>
     <br>
     Div4ataZaKermom
@@ -11,7 +11,7 @@
 <br>
 
 <h4 align="center">
-    A powerful Open Source Appointment Scheduler that can be installed on your server. 
+    A powerful Open Source Appointment Scheduler that can be installed on your server.
 </h4>
 
 <p align="center">
@@ -35,15 +35,15 @@
 
 ## About
 
-**Div4ataZaKermom** is a highly customizable web application that allows customers to book appointments with you 
-via a sophisticated web interface. Moreover, it provides the ability to sync your data with Google Calendar so you can 
-use them with other services. It is an open source project that you can download and install **even for commercial use**. 
-Div4ataZaKermom will run smoothly with your existing website as it can be installed in a single folder of the 
+**Div4ataZaKermom** is a highly customizable web application that allows customers to book appointments with you
+via a sophisticated web interface. Moreover, it provides the ability to sync your data with Google Calendar so you can
+use them with other services. It is an open source project that you can download and install **even for commercial use**.
+Div4ataZaKermom will run smoothly with your existing website as it can be installed in a single folder of the
 server and of course share an existing database.
 
 ## Features
 
-The application is designed to be flexible enough so that it can handle any enterprise work flow. 
+The application is designed to be flexible enough so that it can handle any enterprise work flow.
 
 * Customers and appointments management.
 * Services and providers organization.
@@ -52,7 +52,7 @@ The application is designed to be flexible enough so that it can handle any ente
 * Email notifications system.
 * Self hosted installation.
 * Translated user interface.
-* User community support. 
+* User community support.
 
 ## Setup
 
@@ -95,7 +95,7 @@ If you have problems installing or configuring the application visit the
 You can also report problems on the [issues page](https://github.com/alextselegidis/easyappointments/issues)
 and help the development progress.
 
-## License 
+## License
 
 Code Licensed Under [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | Content Under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
